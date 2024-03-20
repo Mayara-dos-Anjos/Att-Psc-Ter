@@ -15,7 +15,7 @@ public class Gato {
     public void andar (){
         System.out.println("O gato está andando...");
     }
-    public int idadeHumana(int catAge) {
+    public static int catAgeToHuman(int catAge) {
         int humanAge;
         
         if (catAge == 1) {
