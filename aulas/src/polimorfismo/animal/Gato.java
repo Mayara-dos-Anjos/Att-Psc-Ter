@@ -7,9 +7,11 @@ public class Gato extends Animal{
         super(nome);
     }
 
+    @Override
     public void fazerBarulho() {
         System.out.println("miau");
     }
+    @Override
     public void mover(){
         System.out.println("Gato se movendo");
     }
