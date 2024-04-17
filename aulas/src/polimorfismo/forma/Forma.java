@@ -1,4 +1,4 @@
-package polimorfismo;
+package polimorfismo.forma;
 
 public abstract class Forma {
     

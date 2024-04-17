@@ -1,4 +1,4 @@
-package polimorfismo;
+package polimorfismo.forma;
 
 public class Circulo extends Forma {
     private double raio;

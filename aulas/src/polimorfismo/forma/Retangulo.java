@@ -1,4 +1,4 @@
-package polimorfismo;
+package polimorfismo.forma;
 
 public class Retangulo extends Forma {
     private double base;
